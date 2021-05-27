@@ -8,3 +8,4 @@ FOR PY FILE TO RUN REQUIRED:
 pip install openpyxl
 pip install dateutil
 pip install pandas
+pip install csv
